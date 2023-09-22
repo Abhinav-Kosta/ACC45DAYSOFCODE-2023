@@ -5,3 +5,5 @@ Day 2: Code for number of chocolate bought by 5 rupee and 10 rupee coins.
 Day 3: Code for finding whether chairs are sufficient or not in class.
 Day 4B: Code for finding money earned by selling chocolate (Beginner).
 Day 4I: Code for finding seconds hare can wait after tortoise starts running in order to win the race. 
+Day 5B: Code for whether low battery message will appear or not.
+Day 5I: Code for finding the hop which will be last jumped upon.
