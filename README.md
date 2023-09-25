@@ -12,3 +12,6 @@ Day 6B: Code for minimum number of cars required.
 Day 6I: Code for finding whether number is multiple of 5 or not by rearranging it.
 Day 7B: Code for finding whether an instagram account is legal or spam account.
 Day 7I: Code for appropriately inviting maximum number of people of different faction as to reducde the risk of arise of conflict.
+
+Day 8B: Code for total number of people who can take bath.
+Day 8I: Code for finding suitable tablet for Chef to buy.
