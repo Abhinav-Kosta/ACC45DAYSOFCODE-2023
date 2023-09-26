@@ -15,3 +15,5 @@ Day 7I: Code for appropriately inviting maximum number of people of different fa
 
 Day 8B: Code for total number of people who can take bath.
 Day 8I: Code for finding suitable tablet for Chef to buy.
+Day 9B: Code for finding maximum months for cooler to rent.
+Day 9I: Code for finding whether Chef have to do work on weekdays or not and is he capable of completing his work in week or not.
