@@ -20,3 +20,5 @@ Day 9I: Code for finding whether Chef have to do work on weekdays or not and is 
 
 Day 10B: Code for finding total chocolates that can be bought.
 Day 10I: Code for checking in and carrying bags based on weight limit.
+Day 11B: Code for finding whether enought over left for winning.
+Day 11I: Code for repetiton of number in an array.
