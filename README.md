@@ -24,3 +24,4 @@ Day 11B: Code for finding whether enought over left for winning.
 Day 11I: Code for repetiton of number in an array.
 Day 12B: Code for minimum seconds for Mario to fire the bullet.
 Day 12I: Code for finding who will lose in competition of eating candy.
+Day 13B: Code for finding whether government provide funding or not.
