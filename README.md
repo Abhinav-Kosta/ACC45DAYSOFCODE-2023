@@ -29,3 +29,5 @@ Day 13B: Code for finding whether government provide funding or not.
 Day14B: Code for minimum steps required for covering desired stairs.
 Day15B: Code for flipping cards for making all card's position same.
 Day15I: Code for finding mountain with highest peak.
+Day16B: Code for equally distributing chocolates among friends.
+Day16I: Code for chocolate distribution completed.
