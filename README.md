@@ -31,3 +31,6 @@ Day15B: Code for flipping cards for making all card's position same.
 Day15I: Code for finding mountain with highest peak.
 Day16B: Code for equally distributing chocolates among friends.
 Day16I: Code for chocolate distribution completed.
+
+Day17B: Code for finding position of bus seat.
+Day17I: Code for streak.
