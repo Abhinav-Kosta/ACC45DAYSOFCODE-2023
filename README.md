@@ -36,3 +36,5 @@ Day17B: Code for finding position of bus seat.
 Day17I: Code for streak.
 Day18B: Code for least point required to win.
 Day19B: Code for finding who won the contest.
+Day20B: Code for steps of volume increase or decrease.
+Day21B: Code for amount remained in bank.
