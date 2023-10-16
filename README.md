@@ -38,3 +38,7 @@ Day18B: Code for least point required to win.
 Day19B: Code for finding who won the contest.
 Day20B: Code for steps of volume increase or decrease.
 Day21B: Code for amount remained in bank.
+Day22B: Code for finding number of least incorrect answers.
+Day22I: Code for simple calculator.
+
+Day23B: Code for netflix subscription.
