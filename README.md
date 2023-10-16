@@ -34,3 +34,5 @@ Day16I: Code for chocolate distribution completed.
 
 Day17B: Code for finding position of bus seat.
 Day17I: Code for streak.
+Day18B: Code for least point required to win.
+Day19B: Code for finding who won the contest.
