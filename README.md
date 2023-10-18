@@ -42,3 +42,4 @@ Day22B: Code for finding number of least incorrect answers.
 Day22I: Code for simple calculator.
 
 Day23B: Code for netflix subscription.
+Day24B: Code for money required to buy required chocolate.
