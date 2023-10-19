@@ -43,3 +43,5 @@ Day22I: Code for simple calculator.
 
 Day23B: Code for netflix subscription.
 Day24B: Code for money required to buy required chocolate.
+Day25B: Code for finding correct marks.
+Day25I: Code for finding correct time-jump.
