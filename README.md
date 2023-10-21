@@ -49,4 +49,4 @@ Day26B: Code for finding number of person elligible to vote.
 Day27B: Code for minimum time in seconds to catch thief by police.
 Day27I: Code for finding whether Chef is elligible to give exams or not on the bases of his attendance.
 
-Day28B: Code for finding type and exact amount of water.
+Day28B: Code for finding type(cold and hot) and exact amount of water.
