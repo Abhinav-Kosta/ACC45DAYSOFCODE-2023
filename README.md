@@ -51,3 +51,5 @@ Day27I: Code for finding whether Chef is elligible to give exams or not on the b
 
 Day28B: Code for finding type(cold and hot) and exact amount of water.
 Day29B: Code for finding correct sum of weights.
+Day30B: Code for finding number of neighbours fully fed.
+Day30I: Code for finding better player between two players.
