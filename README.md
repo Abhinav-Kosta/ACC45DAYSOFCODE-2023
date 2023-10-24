@@ -53,3 +53,4 @@ Day28B: Code for finding type(cold and hot) and exact amount of water.
 Day29B: Code for finding correct sum of weights.
 Day30B: Code for finding number of neighbours fully fed.
 Day30I: Code for finding better player between two players.
+Day31B: Code for deleting appropriate app.
