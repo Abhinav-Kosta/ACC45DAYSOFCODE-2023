@@ -54,3 +54,5 @@ Day29B: Code for finding correct sum of weights.
 Day30B: Code for finding number of neighbours fully fed.
 Day30I: Code for finding better player between two players.
 Day31B: Code for deleting appropriate app.
+Day32B: Code for finding whether given slices cut possible.
+Day32I: Code for finding Chef's satisfaction.
