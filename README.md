@@ -58,3 +58,4 @@ Day32B: Code for finding whether given slices cut possible.
 Day32I: Code for finding Chef's satisfaction.
 
 Day33B: Code for finding whether trade for country C is surpulous or not.
+Day34B: Code for finding whether given amount be reduced in denomination of 10 and 5 or not.
