@@ -62,3 +62,4 @@ Day34B: Code for finding whether given amount be reduced in denomination of 10 a
 Day35B: Code for finding number of days Chef can eat his favourite food.
 Day36B: Code for finding whose turn to serve in a game is.
 Day37B: Code for finding suitable method of ordering food.
+Day38B: Code for finding minutes of movie that Chef will watch.
