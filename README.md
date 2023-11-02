@@ -64,3 +64,5 @@ Day36B: Code for finding whose turn to serve in a game is.
 Day37B: Code for finding suitable method of ordering food.
 Day38B: Code for finding minutes of movie that Chef will watch.
 Day39B: Code for buying number of shoes.
+Day40B: Code for finding whether Chef find match interesting or not.
+Day40I: Code for finding whether two friends meet or not.
