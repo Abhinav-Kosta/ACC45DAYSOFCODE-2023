@@ -68,3 +68,4 @@ Day40B: Code for finding whether Chef find match interesting or not.
 Day40I: Code for finding whether two friends meet or not.
 
 Day41B: Code for finding which investor to choose.
+Day42B: Code for finding how long Alice and her family members survive.
